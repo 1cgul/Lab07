@@ -47,7 +47,7 @@ public class BinarySearch {
 
         System.out.println(runBinarySearchIteratively(x, target, lower, upper));
 
-        //time complexity is O(log(n))
+        //time complexity is O(log(n)).
        
         
         
