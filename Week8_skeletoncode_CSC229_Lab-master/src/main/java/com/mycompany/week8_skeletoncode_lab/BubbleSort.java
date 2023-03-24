@@ -38,6 +38,8 @@ public class BubbleSort {
         a[3] = 41;
         a[4] = 15;
         bubbleSort(a, a.length);
+
+        //the time complexity of this code is O(n^2)
         
     }
     
